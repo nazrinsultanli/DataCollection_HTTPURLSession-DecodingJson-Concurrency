@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		10A7E14E2D4A7A720045C6D7 /* StoreItemController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10A7E14D2D4A7A720045C6D7 /* StoreItemController.swift */; };
 		10A7E1502D4A87C50045C6D7 /* StoreItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10A7E14F2D4A87C50045C6D7 /* StoreItem.swift */; };
+		10E5EA2A2D4B981F005FD000 /* NasaPhoto.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10E5EA292D4B981F005FD000 /* NasaPhoto.swift */; };
 		18A6051D23CF9802002037CA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18A6051C23CF9802002037CA /* AppDelegate.swift */; };
 		18A6051F23CF9802002037CA /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18A6051E23CF9802002037CA /* SceneDelegate.swift */; };
 		18A6052423CF9802002037CA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18A6052223CF9802002037CA /* Main.storyboard */; };
@@ -21,6 +22,7 @@
 /* Begin PBXFileReference section */
 		10A7E14D2D4A7A720045C6D7 /* StoreItemController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoreItemController.swift; sourceTree = "<group>"; };
 		10A7E14F2D4A87C50045C6D7 /* StoreItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoreItem.swift; sourceTree = "<group>"; };
+		10E5EA292D4B981F005FD000 /* NasaPhoto.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NasaPhoto.swift; sourceTree = "<group>"; };
 		18A6051923CF9802002037CA /* iTunesSearch.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iTunesSearch.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		18A6051C23CF9802002037CA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		18A6051E23CF9802002037CA /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -72,6 +74,7 @@
 				18A6052223CF9802002037CA /* Main.storyboard */,
 				10A7E14D2D4A7A720045C6D7 /* StoreItemController.swift */,
 				10A7E14F2D4A87C50045C6D7 /* StoreItem.swift */,
+				10E5EA292D4B981F005FD000 /* NasaPhoto.swift */,
 			);
 			path = iTunesSearch;
 			sourceTree = "<group>";
@@ -150,6 +153,7 @@
 				10A7E1502D4A87C50045C6D7 /* StoreItem.swift in Sources */,
 				18A6053323CF9ADA002037CA /* ItemCell.swift in Sources */,
 				18A6053123CF9829002037CA /* StoreItemListTableViewController.swift in Sources */,
+				10E5EA2A2D4B981F005FD000 /* NasaPhoto.swift in Sources */,
 				18A6051D23CF9802002037CA /* AppDelegate.swift in Sources */,
 				18A6051F23CF9802002037CA /* SceneDelegate.swift in Sources */,
 				10A7E14E2D4A7A720045C6D7 /* StoreItemController.swift in Sources */,
